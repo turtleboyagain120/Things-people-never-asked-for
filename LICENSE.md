@@ -1,30 +1,39 @@
-# STLv5
+# Stool software license creative 1 - STLvC1
 
-© 2026 turtleboyagain120. Some rights reserved.
+## © 2026 turtleboyagain120. Some rights reserved.
+turtleboyagain120 <timmytheonlinegirl@hotmail.com>
 
-All rights granted to the user to run, modify, share, copy, redistribute, sell, sublicense and/or license (“The Work”) with its manuals, arts, assets and its executable software.
+# Preamble.
+We want to first start off with price. We do not want high prices over cheap items, and neither do you. By contrast, the STLvC1 represents a deep understanding of a license made entirely from the soul and assisted by AI to correct technical errors. This software is governed by the STLvC1 license, which grants you a free, perpetual right to run, modify, and redistribute the work along with its manuals and art assets. In exchange, you are strictly required to preserve all copyright notices, keep your modified projects entirely accessible on the public cloud, and show a permanent attribution footer on any connected websites. Commercial paywalls are strictly forbidden, and any violation of these rules instantly cancels your right to use the software.
 
-# Warranty and liability standards
+# Definitions.
+For the purposes of this License, the following terms shall have the meanings defined below:
+* **"The Work"** means the software, source code, object code, manuals, art assets, and any associated files provided under this License.
+* **"The Owner"** means the copyright holder, turtleboyagain120.
+* **"The User"** means any individual or legal entity exercising permissions granted by this License.
+* **"Modified Work"** means any revision, alteration, translation, or expansion of The Work created by the User.
+* **"The Public Cloud"** means any digital hosting platform, version control system (such as GitHub), or file-sharing website that is entirely open and accessible to the general public without requiring a password, paid subscription, invitation, or registration fee.
+* **"Commercial Paywall"** means any mechanism that requires a third party to pay money, provide financial profit, or exchange monetary value to view, download, run, or execute any portion of The Work or Modified Work.
+* **"Connected Website"** means any website or webpage created, hosted, or maintained by the User that hosts, runs, displays, or references The Work or Modified Work.
 
-FURTHERMORE, THIS PROJECT IS “AS-IS” WITHOUT ANY WARRANTY OF PROFIT OR DATA LOSS THAT MAY OCCUR WHEN USING THE WORK. THE LIABILITY CAP IS ONE THOUSAND DOLLARS $1,000.
+# License Grant.
+Subject to the terms of this license, the Owner grants the User a worldwide, royalty-free, non-exclusive, perpetual, and irrevocable license to use, run, modify, reverse engineer, copy, change, and redistribute The Work, its manuals, and its art assets. 
 
-# Asset licensing.
+# Conditions and Restrictions.
+* **Copyright Notice:** The User must retain all original copyright notices on all copies of the associated files made hereinafter.
+* **Public Access:** The User shall not restrict public use of The Work or Modified Work. All Modified Work must be redistributed exclusively over The Public Cloud.
+* **No Paywalls:** The User must not publish, share, or maintain a Connected Website or project that utilizes a Commercial Paywall. 
+* **Attribution Footer:** All Connected Websites shall, without exception or limitation, display a permanent footer stating exactly: “Powered by the STLvC1 license.”
+* **Notice File:** The User must include a notice file containing the copyright provider information and this entire license text. This file must be named exactly “Notice.licenseC1”. If any mistake occurs during the creation of this file, the User must fix it immediately.
 
-All models, art, assets, textures, .png’s, mp4’s, 3d textures, animations, manuals, instructions, guides and authorized access to all visual art and media not specified in this license and 2d textures all granted to the user. The user must retain the copyright notice on all copies.
+# Termination Clause.
+If the User violates any part of this license, all permissions granted herein automatically terminate. The User must immediately delete all copies and associated files of The Work and Modified Work. Any continued use or distribution after a violation constitutes willful copyright infringement. The User shall, without exception or limitation, be held strictly liable for any distribution that occurs outside of The Public Cloud. Accidental non-compliance or lack of intent shall not excuse a violation of this clause.
 
-# AI defined.
+# Disclaimer of Warranty and Liability Cap.
+THIS PROJECT IS PROVIDED "AS-IS" WITH ALL WARRANTIES DISCLAIMED, WHETHER IMPLIED OR EXPRESSED. THE TOTAL LIABILITY CAP OF THE OWNER UNDER THIS LICENSE IS STRICTLY LIMITED TO $1,000. IN NO EVENT SHALL THE OWNER BE LIABLE FOR CLAIMS INVOLVING REAL PEOPLE OR LOCATIONS. THE WORK MAY INCLUDE, BUT IS NOT LIMITED TO, CONTENT CONTAINING BLOODSHED, GORE, POLITICAL DISCOURSE, OR VIOLENCE.
 
-Artificial Intelligence Systems ('AI') refers to any machine-based system, neural network, or automated algorithm designed to generate outputs such as content, predictions, recommendations, or decisions, including but not limited to machine learning models, large language models, and generative data-scraping software. This restriction applies strictly to all AI development, covering both commercial enterprise models and free open-source models alike. Any unauthorized utilization or scraping of The Work for AI training purposes constitutes a material breach of this license, resulting in the immediate termination of all granted rights and exposing the violating party to full legal damages.
+# Scope of Agreement.
+All restrictions and terms applied herein take effect automatically the moment The Work is accessed, opened, or executed by the User. By using The Work by any means shown in this license, the User enters into a binding covenant with the Owner.
 
-# User protection
-
-In no event shall the owner hold the user liable for real life characters, places, or locations.
-
-# Severability clause
-
-If any section of this license is illegal or unauthorized, the rest of this license remains fully intact.
-
-
-
-# **end of license**
-questions? Contact me! <timmytheonlinegirl@hotmail.com>
+# Jurisdiction.
+This License, and all disputes arising out of or relating to The Work, shall be governed by and construed in accordance with the laws of the State of South Carolina, without giving effect to any choice of law principles. The User agrees that any legal action, suit, or proceeding arising under this License SHALL, WITHOUT EXCEPTION OR LIMITATION, be filed exclusively in the courts located in Richland County, South Carolina.
